@@ -8,7 +8,7 @@
 </p>
 
 
-These are all my Jupyter Notebooks that I've created since 2019. 
+These are all my Jupyter Notebooks that I've created within Anaconda since 2019. 
 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
