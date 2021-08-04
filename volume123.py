@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
-
-
-#from IPython.core.interactiveshell import InteractiveShell
-#InteractiveShell.ast_node_interactivity = "all"
 import mplfinance as mpf
 import yfinance as yf
 
@@ -159,22 +152,6 @@ mpf.plot(df, type= 'line', volume=True)
 data = yf.download(tickers, period='10m', interval='1m')
 df = data
 mpf.plot(df, type= 'line', volume=True)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
