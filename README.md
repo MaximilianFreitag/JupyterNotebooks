@@ -11,7 +11,7 @@
 These are all my Jupyter Notebooks that I've created within Anaconda since 2019. 
 
 
-[![MIT License](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
+Test it out yourself ---> [Demo](https://share.streamlit.io/maximilianfreitag/birthday_calculator/main/birthday_calculator.py)
 
 
 ## License
